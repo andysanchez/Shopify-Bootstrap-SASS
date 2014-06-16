@@ -1,4 +1,4 @@
-Shopify-Bootstrap-SASS
+Bootstrap 3.1.1 for Shopify SASS
 ======================
 
 A single Bootstrap SCSS file for use with Shopify
